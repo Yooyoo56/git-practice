@@ -1,4 +1,4 @@
 Name : Yooyoo
 Country : South Korea
 Favorite color : Green 
-Hello
+Favorite food : Korean food 
